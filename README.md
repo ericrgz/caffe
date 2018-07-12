@@ -1,12 +1,12 @@
 # caffe
 [demo link](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)
 
-# Start container
+## Start container
 ```
 sudo docker run -it --runtime=nvidia bvlc/caffe:gpu bash
 ```
 
-Run the test:
+## Run the test:
 ```
 sudo docker run -it --runtime=nvidia bvlc/caffe:gpu bash
 cd $CAFFE_ROOT
