@@ -1,7 +1,11 @@
-# caffe
+# Caffe exemple for iExec
+
 This container executes the demo of lenet algorithm for character recognition.
+
 More info:
+
 [http://yann.lecun.com/exdb/lenet/] (http://yann.lecun.com/exdb/lenet/)
+
 [http://caffe.berkeleyvision.org/gathered/examples/mnist.html](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)
 
 ## Start container
